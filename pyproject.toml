@@ -2,4 +2,6 @@
 name = "trakrlabs"
 version = "0.1.0"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "falkordb>=1.8.0",
+]
